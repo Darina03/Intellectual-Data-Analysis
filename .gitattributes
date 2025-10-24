@@ -1,0 +1,2 @@
+lab02/*.en filter=lfs diff=lfs merge=lfs -text
+lab02/*.es filter=lfs diff=lfs merge=lfs -text
