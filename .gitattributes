@@ -1,0 +1,7 @@
+lab02/*.en filter=lfs diff=lfs merge=lfs -text
+lab02/*.es filter=lfs diff=lfs merge=lfs -text
+lab03/models/*.pth filter=lfs diff=lfs merge=lfs -text
+lab03/*.en filter=lfs diff=lfs merge=lfs -text
+lab03/*.es filter=lfs diff=lfs merge=lfs -text
+lab03/*.txt filter=lfs diff=lfs merge=lfs -text
+lab03/*.csv filter=lfs diff=lfs merge=lfs -text
